@@ -1,0 +1,15 @@
+# [Project] Zindi Image Classification
+- Team: C_Frog
+- Member: 손동현 (Leader)  이재용
+- Role
+    - 손동현
+        - 이미지 전처리
+        - 파이토치로 ResNet, EfficientNet 전이학습 모델 구현
+        - 기타 모형 실험
+        - 기존 데이터로 불균형 데이터 생성 후 실험
+        - 전체 연구 내용 취합 및 정리
+    - 이재용
+        - 이미지 전처리
+        - 텐서플로로 ResNet, EfficientNet 전이학습 모델 구현
+        - Grad CAM을 적용한 시각화
+        - Grad CAM 연구 결과 정리
